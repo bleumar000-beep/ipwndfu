@@ -131,4 +131,4 @@ EE = Color
 
 2. Run exploit to put your phone into pwned DFU Mode. You can use `./ipwndfu -p`.
 
-3. Any version of iTunes should work. In iTunes, hold Option (or SHIFT if using Windows) and click Restore. You should be prompted to choose a file. Choose your custom IPSW.
+3. Any version of iTunes should work. In iTunes, hold Option (or SHIFT if using Windows) and click Restore. You should be prompted to choose a file. Choose your custom IPSW
